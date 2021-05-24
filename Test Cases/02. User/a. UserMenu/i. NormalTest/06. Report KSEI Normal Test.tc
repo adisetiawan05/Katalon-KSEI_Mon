@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan Report KSEI Data &amp; Export Data</description>
+   <name>06. Report KSEI Normal Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51240304-9ef2-4383-aa57-297041c41cbc</testCaseGuid>
+</TestCaseEntity>

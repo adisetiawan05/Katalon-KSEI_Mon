@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan Report Total RDN &amp; Export Data</description>
+   <name>08. Total RDN Normal Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f34b5ee2-328a-46ea-b199-1472d0daac4b</testCaseGuid>
+</TestCaseEntity>

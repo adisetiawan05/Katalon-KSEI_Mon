@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan Static Data &amp; Export Data</description>
+   <name>02. StaticData Normal Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feba7b3f-5dde-4073-a799-2548a0a3127e</testCaseGuid>
+</TestCaseEntity>

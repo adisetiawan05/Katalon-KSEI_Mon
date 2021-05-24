@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan Validation List Data &amp; Export Data</description>
+   <name>04. Validation List Normal Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36c9ac82-5cff-4645-be91-cef2010e7fe1</testCaseGuid>
+</TestCaseEntity>

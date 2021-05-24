@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LogonAsAdmin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>818cd04c-014c-433d-b09a-632f05711a4a</testSuiteGuid>
+   <testCaseLink>
+      <guid>53ca67bb-a53c-43ce-b752-eb3b3539275e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01. Administrator/a. AdminCreatorMenu/ii. VariationTest/01. Login Vaiation Test</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8491d173-fd0b-4eed-a5be-60b5324f15e3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01. Administrator/a. AdminCreatorMenu/ii. VariationTest/02. Create User Variation Test</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3a5173bf-72ce-4143-89dd-70d1c0f26edb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ExistingUserList</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserId</value>
+         <variableId>c559aa4d-08db-425a-8d0b-25ee61fcaef5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PN</value>
+         <variableId>f06f5815-aa48-4331-9e40-2ab1205f2a8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Unit Kerja</value>
+         <variableId>3c494935-fd56-4ea2-aa4d-4fa731526660</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nama Lengkap</value>
+         <variableId>70542e13-5a98-414e-9444-90d19e8f0d82</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Jabatan</value>
+         <variableId>db60696e-7bbd-401c-b69d-7c5f2f2b30c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Level</value>
+         <variableId>37256817-02fe-4659-849b-07a3cc301725</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Telepon</value>
+         <variableId>3bd84a7b-9b24-4f7e-a102-6e097965280d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3a5173bf-72ce-4143-89dd-70d1c0f26edb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>0adae02e-d249-40a5-84df-19f4a32490f7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>991a442f-6c25-455d-9610-795bed47f173</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/99. Logoff</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>
